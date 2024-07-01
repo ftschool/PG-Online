@@ -79,7 +79,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "proxy"
+            "ext": "proxy3"
         },
         {
             "key": "Xojav",
@@ -90,7 +90,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "proxy"
+            "ext": "proxy3"
         },
         {
             "key": "Eighteen",
