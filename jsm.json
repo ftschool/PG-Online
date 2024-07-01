@@ -57,7 +57,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "proxy"
+            "ext": "proxy4"
         },
         {
             "key": "Miss",
@@ -68,7 +68,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "proxy4"
+            "ext": "proxy"
         },
         {
             "key": "Top888",
