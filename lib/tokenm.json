@@ -47,7 +47,7 @@
     "libxl_url": "./libxl_thunder_sdk.so",
     "youtube_proxy": "proxy",
     "singbox_url": "./sing-box.gz",
-    "singbox_subscribe_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ftschool/PG-Online/main/lib/subscribe.json",
+    "singbox_subscribe_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/subscribe/main/singbox/P.json",
     "singbox_clash2singbox_url": "./clash2singbox.gz",
     "singbox_template_url": "./singbox.json"
 }
