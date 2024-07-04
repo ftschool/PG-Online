@@ -47,7 +47,7 @@
     "libxl_url": "./libxl_thunder_sdk.so",
     "youtube_proxy": "proxy",
     "singbox_url": "./sing-box.gz",
-    "singbox_subscribe_url": "https://sub.789.st/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fbarry-far%2FV2ray-Configs%2Fmain%2FSplitted-By-Protocol%2Fss.txt&insert=false",
+    "singbox_subscribe_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/subscribe/main/singbox/P.json",
     "singbox_clash2singbox_url": "./clash2singbox.gz",
     "singbox_template_url": "./singbox.json"
 }
